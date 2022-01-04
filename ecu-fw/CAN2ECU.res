@@ -1,0 +1,1 @@
+/O:CAN2ECU.YEX /M:CAN2ECU.MAP /A:CAN2ECU.DEF /SE /OF:E /YU  C1.OBJ ecu.OBJ r_can_api.OBJ rtc.OBJ sci.OBJ main.OBJ timer.OBJ r_Flash_API_RX600.OBJ usb.OBJ flash_data.OBJ uSD_rspi1.OBJ can3_spi2.OBJ volatile_test.OBJ obd2.OBJ reprogram.OBJ flash_rom.OBJ cantp.OBJ uds.OBJ */home/rob/yide/YellowIDE7/LIB/RX/LITTLE/LRX.LIB
